@@ -1,0 +1,24 @@
+body{
+	margin:0;
+}
+.header{
+	height:50px;
+	background-color:#666688;
+}
+.left{
+	height:400px;
+	float:left;
+	background-color:#7095a0;
+	width:50%;
+}
+.right{
+	height:400px;
+	float:right;
+	background-color:#b0a8c1;
+	width:50%;
+}
+.footer{
+	clear:both;
+	height:50px;
+	background-color:#333352;
+}
