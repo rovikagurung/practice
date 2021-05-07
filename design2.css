@@ -1,0 +1,25 @@
+body{
+	margin:0;
+}
+.header{
+	height:50px;
+	background-color:#666688;
+}
+.flex{
+	display:flex;
+	flex-direction:row;
+}
+.left{
+	height:400px;
+	background-color:#7095a0;
+	width:50%;
+}
+.right{
+	height:400px;
+	background-color:#b0a8c1;
+	width:50%;
+}
+.footer{
+	height:50px;
+	background-color:#333352;
+}
