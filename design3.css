@@ -1,0 +1,39 @@
+@media screen and (max-width:500px){
+.header{
+	display:flex;
+	flex-direction: column;
+	width:100%;
+	height:100px;
+	background-color:#9494d0;
+	text-align:center;
+}
+.nav{
+	background-color:#43436f;
+	width:100%;
+	height:50px; 
+	text-align: center;
+}
+.flex{
+	display:flex;
+	flex-direction:row;
+}
+.menu{
+	width:70%;
+	height:500px;
+	background-color:#505069;
+	text-align:center;
+}
+.aside{
+	width:30%;
+	height:500px;
+	background-color:#606080;
+	text-align:center;
+}
+.footer{
+	background-color:#383858;
+	width:100%;
+	height:50px; 
+	text-align: center;
+	padding:10px;
+}
+}
