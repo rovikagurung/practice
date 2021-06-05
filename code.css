@@ -1,0 +1,113 @@
+section{
+	display:flex;
+	width:70%;
+	margin:50px auto;
+	background-color:#6ed3ab6e;
+	padding:20px;
+}
+
+section .aside{
+	flex-direction:row;
+	width:30%;
+	background:#ffffff87;
+	padding:20px;
+}
+
+section .aside .image{
+	width:130px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+section .aside .image img{
+	width:100%;
+	padding:20px 40p;
+} 
+
+section .title{
+	font-size:20px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+section .aside .info{
+	margin-top:5px;
+	color:#106737;
+	margin-bottom:10px;
+}
+
+section .item{
+	border-bottom:1px solid rgba(33,147,12,1);
+}
+
+section .aside .profile .main .name{
+	font-weight:bold;
+	font-size:22px;
+	color:#225716;
+}
+
+section .aside .profile .main .role{
+	font-size:18px;
+	padding:2px;
+	color:#225716;
+	margin-bottom:10px;
+}
+
+section .aside .profile{
+	padding:20px 30px;
+}
+
+section .aside .contact{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+section .right{
+	width:65%;
+	padding:20px 40px;
+}
+
+section .right .main .name{
+	color:#225716;
+	font-size:30px;
+}
+
+section .right .main .role{
+	font-size:18px;
+	color:#225716;
+	margin-bottom:10px;
+}
+
+section .right .portfolio .info{
+	margin-top:10px;
+	font-size:16px;
+	margin-bottom:10px;
+}
+
+section .right .education .title{
+	color:#215614;
+	margin-bottom:5px;
+}
+
+section .right .data{
+	display:flex;
+	margin-bottom:10px;
+}
+
+section .right .data .year{
+	padding-right:20px;
+	width:30%;
+	position:relative;
+}
+
+section .right .data .course{
+	padding-right:20px;
+	padding-left:20px;
+	margin-bottom:20px;
+	width:30%;
+}
+
+section .right .data .academy_name{
+	padding-left:20px;
+	width:30%;
+}
